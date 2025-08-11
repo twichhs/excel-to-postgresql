@@ -32,3 +32,22 @@
 ---
 
 ## 📂 Estrutura do Projeto
+
+
+---
+
+## 👥 Divisão de Tarefas
+
+| Tarefa | Responsável |
+|--------|-------------|
+| Criação do banco de dados | Leonardo |
+| Conexão com o banco de dados | Leonardo |
+| Script de extração de dados da planilha | Aquiles |
+| Inserção no banco de dados | Ambos |
+
+---
+
+## 📌 Como Executar
+1. Clone este repositório  
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git

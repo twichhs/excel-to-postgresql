@@ -32,7 +32,7 @@
 ---
 
 ## 📂 Estrutura do Projeto
-
+- Em andamento
 
 ---
 
